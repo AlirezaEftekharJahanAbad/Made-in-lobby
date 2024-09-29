@@ -1,0 +1,12 @@
+#members h5.title+p span{
+    background-color: var(--primary-color);
+    color: #fff;
+}
+
+#members div.members-card div.card img{
+    border-radius: 20px;
+}
+
+#members div.row div.col-md-4 img{
+    border-radius: 5px/10px!important;
+}

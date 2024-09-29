@@ -1,0 +1,15 @@
+#contact-us #contact-us-form div.form-group :last-child{
+    border-radius:0.5rem;
+    background-color: var(--bg-input);
+}
+
+#contact-us #contact-us-form div.form-group :last-child:focus{
+    border: 2px solid var(--primary-color)!important;
+    box-shadow: none;
+}
+
+#contact-us #contact-us-form button[type="submit"]{
+    color: var(--primary-color);
+    border: 2px solid var(--primary-color);
+    border-radius:0.5rem;
+}

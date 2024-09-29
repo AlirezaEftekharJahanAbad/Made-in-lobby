@@ -1,0 +1,17 @@
+#article{
+    margin-top: -85vh;
+}
+
+#article div.card {
+    background-color: rgba(18, 19, 47, 1);
+    border-radius: 20px;
+}
+
+#article * {
+    color: #fff;
+}
+
+#article div.card img{
+    border-radius: 20px;
+}
+
